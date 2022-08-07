@@ -17,10 +17,10 @@
 13. git fetch - отримуємо зміни з сайту github
 14. git stash - зберігаємо не збережені зміни в файлах і кладемо їх в буфер обміну
 15. git stash apply - вставляємо збережені зміни з буфера обміну
-15. git merge "banchName" - зливаємо гілку з назвою "branchName" в поточну гілку
+16. git merge "banchName" - зливаємо гілку з назвою "branchName" в поточну гілку
 17. git merge --abort - відміняємо зливання гілок
 18. git branch -d branchName - видаляє гілку локально з проекту
 19. git push origin --delete name - видаляє гілку з сайту github
 20. git diff - показує відрізки рядків між двома версіями файлу (між двома комітами)
 21. git log - показує історію комітів
-22. cd gitTutorial - переходимо в папку gitTutorial
+22. cd gitTutorialMini - переходимо в папку gitTutorialMini
