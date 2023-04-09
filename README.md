@@ -1,4 +1,4 @@
-# GitTutorialMiniUA
+# Git Tutorial Mini UA
 
 ## Список корисних команд для роботи з git
 
